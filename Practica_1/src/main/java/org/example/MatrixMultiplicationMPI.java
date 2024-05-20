@@ -3,6 +3,7 @@ package org.example;
 import mpi.*;
 
 public class MatrixMultiplicationMPI {
+
     public static void main(String[] args) throws Exception {
         MPI.Init(args);
 
