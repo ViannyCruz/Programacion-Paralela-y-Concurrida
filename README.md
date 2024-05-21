@@ -47,7 +47,7 @@ Ejecute el programa 10 veces y en términos de tiempo estos fueron los resultado
 1. 39 ms
 2. 31 ms
 3. 23 ms
-4.40 ms
+4. 40 ms
 5. 34 ms
 6. 19 ms
 7. 21 ms
