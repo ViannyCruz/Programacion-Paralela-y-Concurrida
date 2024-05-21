@@ -17,6 +17,14 @@ El programa genera matrices aleatorias para la multiplicación. Aquí hay alguno
 
 ![image](https://github.com/ViannyCruz/Programacion-Paralela-y-Concurrida/assets/113074158/99cad9d7-8c04-4baf-ad7d-d3fb13e86603)
 
+![image](https://github.com/ViannyCruz/Programacion-Paralela-y-Concurrida/assets/113074158/5f7c923c-03fc-4ac7-83af-88a6b83f882b)
+
+![image](https://github.com/ViannyCruz/Programacion-Paralela-y-Concurrida/assets/113074158/0bfe0525-f8d3-4a50-b8dc-097acabe61ec)
+
+Para matriz 100 x 100
+![image](https://github.com/ViannyCruz/Programacion-Paralela-y-Concurrida/assets/113074158/b440f0b0-6392-44fc-9b63-1c3adad55ff4)
+
+
 
 
 
