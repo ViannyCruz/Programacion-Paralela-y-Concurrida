@@ -3,6 +3,7 @@
 Este programa realiza la multiplicación de dos matrices cuadradas utilizando programación de MPI (Message Passing Interface). El programa divide las filas de las matrices entre los procesos disponibles y luego recopila los resultados en el proceso raíz.
 
 
+
 2. Compilación y Ejecución
 Para compilar el programa, necesitará tener instalado un compilador de Java y la biblioteca MPI. Una vez que lo tenga instalados, puede compilar el programa con el siguiente comando:
 
@@ -10,6 +11,7 @@ Para compilar el programa, necesitará tener instalado un compilador de Java y l
 
 Por ejemplo:
 C:\mpj-v0_44\bin\mpjrun.bat -np 4 -cp . org.example.MatrixMultiplicationMPI
+
 
 
 3. Ejemplos de Entrada y Salida
@@ -34,6 +36,7 @@ Para confirmar los cálculos del programa se utilizó la herramienta online matr
 
 
 4. Análisis de Rendimiento
+   
 El rendimiento del programa de multiplicación de matrices utilizando MPI mejora a medida que se incrementa el número de procesos, hasta cierto punto. Con dos procesos, el tiempo promedio es de 29.2 ms. Con cuatro procesos, el tiempo promedio aumenta ligeramente a 33.5 ms. Sin embargo, con seis procesos, el tiempo promedio se reduce a 20.9 ms.
 
 Este análisis muestra que la eficiencia de paralelización puede variar dependiendo del número de procesos utilizados. En este caso, seis procesos ofrecen el mejor rendimiento para la multiplicación de matrices 100 x 100. Es importante considerar la sobrecarga de comunicación entre procesos al aumentar el número de procesos, lo cual puede explicar el aumento de tiempo observado con cuatro procesos en comparación con dos.
